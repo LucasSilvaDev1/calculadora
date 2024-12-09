@@ -39,6 +39,11 @@ button:hover{
 
 .display{
     margin: 10px;
+    
+}
+
+#input{
+    text-align: right;
 }
 
 .container{
